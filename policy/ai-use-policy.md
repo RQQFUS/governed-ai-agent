@@ -10,7 +10,7 @@ Can't touch: Passwords, payment or bank details, and government systems, includi
 
 Personal information: It knows some details about me and my family that I've shared so it can help with scheduling. It can't share them with anyone without my approval, and none of it goes in this repo.
 
-Needs my approval first: Sending, submitting, posting, publishing, deleting or buying anything. One exception: scheduled tasks can post without asking to my private Slack channels and to our family #general channel, where Montia reads the daily thought. Those posts never include personal details. Anything else that reaches another person still needs my OK.
+Needs my approval first: Sending, submitting, posting, publishing, deleting or buying anything. One exception: scheduled tasks can post without asking to my private Slack channels and to our family #general channel, where Montia reads the daily thought. Those posts can mention our own plans, like my job search or retirement, and only Montia and I can read that channel. Anything else that reaches another person still needs my OK.
 
 Logs: Live sessions are recorded in my Claude conversation history. Scheduled tasks run in separate sessions, so their record is what they post to #daily-brief. Gmail's sent and drafts folders are a second record.
 
